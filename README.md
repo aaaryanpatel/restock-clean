@@ -4,6 +4,8 @@
 Restock is a fast, offline-first inventory scanner that uses OCR to log stock items in under 3 seconds—ideal for small stores and warehouse use.
 
 ---
+- Demo (silent): https://x.com/SpydeyDev/status/1957669399718162605
+---
 
 ##  Why Restock?  
 - Stores often rely on manual logs—time-consuming and error-prone.  
